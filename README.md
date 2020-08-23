@@ -1,4 +1,4 @@
-# NDHM FHIR - Client Starter
+# NDHM FHIR - Starter 
 
 This project is a simple "skeleton project" (a Maven project containing all dependencies needed to run the NDDHM FHIR client).
 
