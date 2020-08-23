@@ -11,7 +11,7 @@ You will see that this project loads the resource `Discharge Summary` from the R
 
 # Let's Build - NDHM FHIR Discharge Summary Introduction
 
-Check out the [Client Documentation](http://hapi.fhir.org/baseR4/Bundle/1441944/_history/1) to see the JSON syntax for DischargeSummary FHIR Rsource published by NRCES https://nrces.in/ndhm/fhir/r4/Bundle-DischargeSummary-example-04.json.html.
+Check out the [NHA FHIR Documentation](http://hapi.fhir.org/baseR4/Bundle/1441944/_history/1) to see the JSON syntax for DischargeSummary FHIR Rsource published by NRCES https://nrces.in/ndhm/fhir/r4/Bundle-DischargeSummary-example-04.json.html.
 
 Here are some things to try:
 
